@@ -1,0 +1,29 @@
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+
+
+.gameDiv {
+   font-family: 'Quicksand',"Brush Script MT", cursive;
+   border: 10px solid; 
+   border-radius: 30px;
+   background-color: bisque;
+   padding: 20px;
+   text-align: center;
+}
+
+.choiceButton {
+    line-height: 35px;
+    width: 120px;
+}
+
+#playerText {
+color: rgb(12, 142, 248);
+}
+#computerText {
+color: brown;
+}
+#playerText {
+
+}
